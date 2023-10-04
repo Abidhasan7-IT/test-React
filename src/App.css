@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.data-container{
+  background-color: rgba(59, 58, 0, 0.322);
+  color:rgb(255, 255, 255);
+  font-weight: 800;
+  padding: 15px;
+  border-radius: 20px;
+}
+.mail-details{
+  color: rgb(0, 255, 0);
+  font-family: cursive;
+}
+h2{
+  color: rgb(0, 255, 179);
+}
